@@ -1,2 +1,0 @@
-# WorldOfGames-Final
-WorldOfGames-Final
